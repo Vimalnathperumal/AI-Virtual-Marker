@@ -8,10 +8,12 @@ This project is to offer an innovative, hands-free drawing application that uses
 
 
 ## How to Use :
-### 1. Drawing Mode
+### 1. Writing Mode
 - **Gesture:** Raise only your index finger.
 - **Action:** Move your index finger across the screen to draw.
 - **Details:** The line follows the movement of your finger on the screen.
+  
+![Writing](https://github.com/user-attachments/assets/ce467eff-14bb-42b9-be83-68e2c0d4f6d1)
 
 ### 2. Selection Mode
 - **Gesture:** Use your index and middle fingers.
@@ -25,10 +27,14 @@ Yellow | Select for yellow-colored drawing
 Green | Select for green-colored drawing
 Eraser | Choose the black section to erase parts of your drawing
 
+![Selection](https://github.com/user-attachments/assets/3f43f996-1b1e-489d-be0f-72dd182155c4)
+
 ### 3. Adjusting Thickness
 - **Gesture:** Adjust the distance between your thumb and index finger.
 - **Action:** Adjust the thickness of the draw based on this distance.
 - **Select Thickness:** When the pinky finger is up, the selected thickness is applied.
+
+![Thickness](https://github.com/user-attachments/assets/87cc1eb9-9b32-445a-992f-cdfc7247160e)
 
 ### 4. Locking and Unlocking the Screen
 #### Lock Screen
@@ -37,6 +43,8 @@ Eraser | Choose the black section to erase parts of your drawing
 #### Unlock Screen
 - **Gesture:** Raise your index, middle, ring, and pinky fingers (thumb down).
 - **Action:** Unlock the screen, allowing drawing to continue.
+
+![Screen Lock](https://github.com/user-attachments/assets/3c831ead-4e0f-4aea-b250-18650567e41b)
 
 ### 5. Clearing the Screen
 - **Condition:** Make sure the screen is unlocked.
